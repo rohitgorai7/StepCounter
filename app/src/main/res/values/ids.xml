@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="steps" type="id" />
+    <item name="tv_stepsTaken" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="calorie_count" type="id" />
+    <item name="imageView4" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="targetdone" type="id" />
+</resources>
